@@ -22,7 +22,6 @@ Exemplo:
     printf("O valor1 é: %d e o valor2 é: %d",var1, var2);
 
  
-
 Formatos:
 São conversores de dados utilizados para leitura e escrita. Segue alguns deles.
 
