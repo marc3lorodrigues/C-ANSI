@@ -61,15 +61,16 @@ Inverte o valor da expressão.
 exp1?exp2:exp3 <br>
 A primeira expressão é avaliada caso seja verdadeira retorna a segunda, caso não retorna a terceira.
 
-## Tabela de Procedência:    
-|()			|Parenteses. <br>							|
-|!,++,--,-	|Negação, Incremento, Decremento, Unário<br>|
-|*,/,%		|Multiplicação, Divisão, Mod<br>            |
-|+,-		|Soma, Subtração<br> 	                    |
-|==,!=		|Igual, Diferente<br>                       |
-|&&			|And)<br>                                   |
-|||			|Ou)<br>                                    |
-|?:			|Ternário<br>                               |
+## Precedencia de operadores  
+
+* ()			Parenteses
+* !,++,--,-		Negação, Incremento, Decremento, Unário
+* *,/,%			Multiplicação, Divisão, Mod
+* +,-			Soma, Subtração
+* ==,!=			Igual, Diferente
+* &&			(And)
+* ||			(Ou)
+* ?:			Ternário
 
 
  
