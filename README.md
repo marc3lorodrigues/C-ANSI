@@ -20,12 +20,26 @@ Exemplo:
 ### Funções de String
 * gets <br>
 Lê uma string a partir do teclado.
-
-* strcpy
-* strcat
-* strlen
-* strcmp
+```
+gets(Nome);
+```
 
 
+* strcpy <br>
+Copia a string destino para a string de origem.
+```
+```
+* strcat <br>
+Anexa a palavra origem na palavra destino.
+```
+```
+* strlen <br>
+retorna o comprimento da string.
+```
+```
 
- 
+* strcmp <br>
+Compara as strings retornando zero se forem iguais.
+```
+```
+
