@@ -34,9 +34,10 @@ i %=2 equivale i = i % 2
  
 
 ## Incremento e Decremento:
-++ Incremento  <br>
+```
+++ Incremento  
 -- Decremento
-
+```
 ## Relacionais:
 ```
 > Maior <br>
@@ -47,7 +48,7 @@ i %=2 equivale i = i % 2
 !=	 Diferente <br>
 ```
 ## Lógicos:
-
+```
 && (and) <br>
 Resulta verdadeiro apenas quando as duas expressões são verdadeiras.
 
@@ -56,13 +57,13 @@ Resulta falso apenas quando as duas expressões são falsas.
 
 ! (not) <br>
 Inverte o valor da expressão.
-
+```
 ## Condicional Ternário:
-exp1?exp2:exp3 <br>
+```exp1?exp2:exp3 <br>
 A primeira expressão é avaliada caso seja verdadeira retorna a segunda, caso não retorna a terceira.
-
+```
 ## Precedencia de operadores:
-
+```
 * ()			Parenteses
 * !,++,--,-		Negação, Incremento, Decremento, Unário
 * *,/,%			Multiplicação, Divisão, Mod
@@ -71,7 +72,7 @@ A primeira expressão é avaliada caso seja verdadeira retorna a segunda, caso n
 * &&			(And)
 * ||			(Ou)
 * ?:			Ternário
-
+```
 
  
 
