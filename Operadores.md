@@ -29,10 +29,6 @@ i /=2 equivale i = i / 2
 %= Resto da divisão 
 i %=2 equivale i = i % 2
 ```
-
-
- 
-
 ## Incremento e Decremento:
 ```
 ++ Incremento  
@@ -42,10 +38,10 @@ i %=2 equivale i = i % 2
 ```
 > Maior 
 < Menor 
->=	 Maior que 
-<=	 Menor que 
-==	 Igual 
-!=	 Diferente 
+>= Maior que 
+<= Menor que 
+== Igual 
+!= Diferente 
 ```
 ## Lógicos:
 ```
