@@ -14,19 +14,19 @@
 ```
 ## Aritméticos de Atribuição:
 ```
-+= Adição <br>
++= Adição
 i +=2 equivale i = i + 2
 
--= Subtração <br>
+-= Subtração 
 i -=2 equivale i = i - 2
 
-*= Multiplicação <br>
+*= Multiplicação 
 i *=2 equivale i = i * 2
 
-/=  Divisão <br>
+/=  Divisão 
 i /=2 equivale i = i / 2
 
-%= Resto da divisão <br>
+%= Resto da divisão 
 i %=2 equivale i = i % 2
 ```
 
@@ -40,8 +40,8 @@ i %=2 equivale i = i % 2
 ```
 ## Relacionais:
 ```
-> Maior <br>
-< Menor <br>
+> Maior 
+< Menor 
 >=	 Maior que 
 <=	 Menor que 
 ==	 Igual 
