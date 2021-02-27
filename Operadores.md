@@ -2,33 +2,33 @@
 
 ## Atribuição: 
 
-=  Atribui o valor da direita a variável da esquerda. <br> Obs: A linguagem "C" permite atribuição múltipla.
+=  Atribui o valor da direita a variável da esquerda.  Obs: A linguagem "C" permite atribuição múltipla.
 
 ## Aritméticos:
-
+```
 + Adição
 - Subtração
 * Multiplicação
 / Divisão
 % Resto da divisão
-
+```
 ## Aritméticos de Atribuição:
-
+```
 += Adição <br>
- i +=2 equivale i = i + 2
+i +=2 equivale i = i + 2
 
- -= Subtração <br>
- i -=2 equivale i = i - 2
+-= Subtração <br>
+i -=2 equivale i = i - 2
 
 *= Multiplicação <br>
- i *=2 equivale i = i * 2
+i *=2 equivale i = i * 2
 
 /=  Divisão <br>
- i /=2 equivale i = i / 2
+i /=2 equivale i = i / 2
 
 %= Resto da divisão <br>
 i %=2 equivale i = i % 2
-
+```
 
 
  
@@ -38,14 +38,14 @@ i %=2 equivale i = i % 2
 -- Decremento
 
 ## Relacionais:
-
+```
 > Maior <br>
 < Menor <br>
 >=	 Maior que <br>
 <=	 Menor que <br>
 ==	 Igual <br>
 !=	 Diferente <br>
-
+```
 ## Lógicos:
 
 && (and) <br>
