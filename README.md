@@ -14,4 +14,18 @@ São instruções passadas para o processador.
 Exemplo: 
 ``` #include <stdio.h> ```
 
+### Tipos de Dados
+É o nome dado para um valor ou conjunto de valores que podem ser armazenados em suas respectivas variáveis. 
+
+### Funções de String
+* gets <br>
+Lê uma string a partir do teclado.
+
+* strcpy
+* strcat
+* strlen
+* strcmp
+
+
+
  
