@@ -61,7 +61,7 @@ Inverte o valor da expressão.
 exp1?exp2:exp3 <br>
 A primeira expressão é avaliada caso seja verdadeira retorna a segunda, caso não retorna a terceira.
 
-## Precedencia de operadores  
+## Precedencia de operadores:
 
 * ()			Parenteses
 * !,++,--,-		Negação, Incremento, Decremento, Unário
