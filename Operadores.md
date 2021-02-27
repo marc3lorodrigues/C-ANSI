@@ -42,24 +42,25 @@ i %=2 equivale i = i % 2
 ```
 > Maior <br>
 < Menor <br>
->=	 Maior que <br>
-<=	 Menor que <br>
-==	 Igual <br>
-!=	 Diferente <br>
+>=	 Maior que 
+<=	 Menor que 
+==	 Igual 
+!=	 Diferente 
 ```
 ## Lógicos:
 ```
-&& (and) <br>
+&& (and) 
 Resulta verdadeiro apenas quando as duas expressões são verdadeiras.
 
-|| (or) <br>
+|| (or) 
 Resulta falso apenas quando as duas expressões são falsas.
 
-! (not) <br>
+! (not) 
 Inverte o valor da expressão.
 ```
 ## Condicional Ternário:
-```exp1?exp2:exp3 <br>
+```
+exp1?exp2:exp3 
 A primeira expressão é avaliada caso seja verdadeira retorna a segunda, caso não retorna a terceira.
 ```
 ## Precedencia de operadores:
