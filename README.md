@@ -38,6 +38,8 @@ Exemplo:
   * Faixa de Valores: nenhum
   * Tamanho: 0
 
+#### Obs: Na linguagem C não existe o tipo string, por isso usaremos sempre um array de char;
+
 
 
 ### Funções de String
