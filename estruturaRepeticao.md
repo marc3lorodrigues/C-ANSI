@@ -1,4 +1,4 @@
-# ESTRUTURA DE REPETIÇÃO
+# Estrutura de Repetição
 As estruturas de repetição tem como objetivo executar repetidamente um conjunto de instruções até que uma condição seja atendida. Vejamos as estruturas.
 * Laço for
 * Laço while
