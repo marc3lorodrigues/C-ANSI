@@ -16,6 +16,6 @@ Possui a característica de ser relativamente portátil visto que possui uma imp
 [Estrutura de Decisão](EstruturasDecisao.md) <br>
 [Estrutura de Repetição](estruturaRepeticao.md) <br>
 [Outros Comandos](OutrosComandos.md)<br>
-[teste]
+
 
 
