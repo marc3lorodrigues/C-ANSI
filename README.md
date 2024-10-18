@@ -18,4 +18,18 @@ Possui a característica de ser relativamente portátil visto que possui uma imp
 [Outros Comandos](OutrosComandos.md)<br>
 
 
-
+<ol>
+  <li>Trabalhando com C ANSI</li>
+  <ol>
+    <li>Diretivas</li>
+      <li>Tipos de Dados</li>
+      <li>Variáveis</li>
+      <li>Comando de Entrada/Saída</li>
+      <li>Operadores</li>
+      <li>Estruturas de Decisão</li>
+      <li>Estrutura de Repetição</li>
+      <li>Outros comandos</li>
+  </ol> 
+  </li>
+</ol>
+  
